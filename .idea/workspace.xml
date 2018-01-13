@@ -2,14 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4243ccd3-eec7-4297-bf4e-ce529ba262df" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter3/60_regressor_poly1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter3/61_regressor_poly2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter3/62_regressor_poly4.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter3/63_three_regressor_score.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter3/64_regularization_lasso.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter3/65_regularization_ridge.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter3/66_gridsearch.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter3/67_parallel_gridsearch.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter3/68_install_lib.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter3/69_bag_of_words.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter3/70_nltk.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter3/71_word2vec.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter3/72_xgboost.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter3/73_tensorflow_greeting.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter3/74_tensorflow_linear.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter3/75_tensorflow_cancer.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/from0beginkaggle.iml" afterPath="$PROJECT_DIR$/.idea/from0beginkaggle.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,96 +23,76 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="61_regressor_poly2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter3/61_regressor_poly2.py">
+      <file leaf-file-name="68_install_lib.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter3/68_install_lib.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="5" column="12" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-              <folding>
-                <element signature="e#68#120#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="62_regressor_poly4.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter3/62_regressor_poly4.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="33" column="17" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-              <folding>
-                <element signature="e#68#120#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="63_three_regressor_score.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter3/63_three_regressor_score.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="26" column="24" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-              <folding>
-                <element signature="e#68#120#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="64_regularization_lasso.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter3/64_regularization_lasso.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="39" column="27" lean-forward="false" selection-start-line="39" selection-start-column="27" selection-end-line="39" selection-end-column="27" />
-              <folding>
-                <element signature="e#68#120#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="65_regularization_ridge.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter3/65_regularization_ridge.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="41" column="34" lean-forward="false" selection-start-line="41" selection-start-column="34" selection-end-line="41" selection-end-column="34" />
-              <folding>
-                <element signature="e#68#120#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="66_gridsearch.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter3/66_gridsearch.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="558">
-              <caret line="21" column="29" lean-forward="true" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
-              <folding>
-                <element signature="e#0#47#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="67_parallel_gridsearch.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chapter3/67_parallel_gridsearch.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="20" column="29" lean-forward="false" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
-              <folding>
-                <element signature="e#0#47#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="60_regressor_poly1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter3/60_regressor_poly1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="30" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="69_bag_of_words.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter3/69_bag_of_words.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="71_word2vec.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter3/71_word2vec.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="34" column="36" lean-forward="false" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="72_xgboost.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter3/72_xgboost.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="145">
+              <caret line="21" column="82" lean-forward="false" selection-start-line="21" selection-start-column="82" selection-end-line="21" selection-end-column="82" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="73_tensorflow_greeting.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter3/73_tensorflow_greeting.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="74_tensorflow_linear.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter3/74_tensorflow_linear.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="75_tensorflow_cancer.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter3/75_tensorflow_cancer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="343">
+              <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -135,14 +117,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/chapter2/24_news_txt_bayes_report.py" />
-        <option value="$PROJECT_DIR$/chapter2/25_iris_crawl.py" />
-        <option value="$PROJECT_DIR$/chapter2/26_iris_split.py" />
-        <option value="$PROJECT_DIR$/chapter2/27_iris_kmeans.py" />
-        <option value="$PROJECT_DIR$/chapter2/28_iris_knn_report.py" />
-        <option value="$PROJECT_DIR$/chapter2/29_titianic_read.py" />
-        <option value="$PROJECT_DIR$/chapter2/30_titanic_dtc.py" />
-        <option value="$PROJECT_DIR$/chapter2/31_titanic_dtc_report.py" />
         <option value="$PROJECT_DIR$/chapter2/32_titanic_dtc_rfc_gbc.py" />
         <option value="$PROJECT_DIR$/chapter2/33_titanic_report.py" />
         <option value="$PROJECT_DIR$/chapter1/12_breast_cancer_demo.py" />
@@ -186,12 +160,20 @@
         <option value="$PROJECT_DIR$/chapter3/65_regularization_ridge.py" />
         <option value="$PROJECT_DIR$/chapter3/66_gridsearch.py" />
         <option value="$PROJECT_DIR$/chapter3/67_parallel_gridsearch.py" />
+        <option value="$PROJECT_DIR$/chapter3/68_install_lib.py" />
+        <option value="$PROJECT_DIR$/chapter3/69_bag_of_words.py" />
+        <option value="$PROJECT_DIR$/chapter3/70_nltk.py" />
+        <option value="$PROJECT_DIR$/chapter3/71_word2vec.py" />
+        <option value="$PROJECT_DIR$/chapter3/72_xgboost.py" />
+        <option value="$PROJECT_DIR$/chapter3/73_tensorflow_greeting.py" />
+        <option value="$PROJECT_DIR$/chapter3/74_tensorflow_linear.py" />
+        <option value="$PROJECT_DIR$/chapter3/75_tensorflow_cancer.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="331" />
-    <option name="y" value="-12" />
+    <option name="x" value="495" />
+    <option name="y" value="-11" />
     <option name="width" value="1120" />
     <option name="height" value="824" />
   </component>
@@ -213,8 +195,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -247,6 +227,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -264,8 +246,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.67_parallel_gridsearch">
-    <configuration name="63_three_regressor_score" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.75_tensorflow_cancer">
+    <configuration name="71_word2vec" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -277,12 +259,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="from0beginkaggle" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter3/63_three_regressor_score.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter3/71_word2vec.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="64_regularization_lasso" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="72_xgboost" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -294,12 +276,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="from0beginkaggle" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter3/64_regularization_lasso.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter3/72_xgboost.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="65_regularization_ridge" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="73_tensorflow_greeting" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -311,12 +293,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="from0beginkaggle" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter3/65_regularization_ridge.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter3/73_tensorflow_greeting.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="66_gridsearch" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="74_tensorflow_linear" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -328,12 +310,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="from0beginkaggle" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter3/66_gridsearch.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter3/74_tensorflow_linear.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="67_parallel_gridsearch" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="75_tensorflow_cancer" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -345,25 +327,25 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="from0beginkaggle" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter3/67_parallel_gridsearch.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter3/75_tensorflow_cancer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.63_three_regressor_score" />
-      <item index="1" class="java.lang.String" itemvalue="Python.64_regularization_lasso" />
-      <item index="2" class="java.lang.String" itemvalue="Python.65_regularization_ridge" />
-      <item index="3" class="java.lang.String" itemvalue="Python.66_gridsearch" />
-      <item index="4" class="java.lang.String" itemvalue="Python.67_parallel_gridsearch" />
+      <item index="0" class="java.lang.String" itemvalue="Python.71_word2vec" />
+      <item index="1" class="java.lang.String" itemvalue="Python.72_xgboost" />
+      <item index="2" class="java.lang.String" itemvalue="Python.73_tensorflow_greeting" />
+      <item index="3" class="java.lang.String" itemvalue="Python.74_tensorflow_linear" />
+      <item index="4" class="java.lang.String" itemvalue="Python.75_tensorflow_cancer" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.67_parallel_gridsearch" />
-        <item index="1" class="java.lang.String" itemvalue="Python.66_gridsearch" />
-        <item index="2" class="java.lang.String" itemvalue="Python.65_regularization_ridge" />
-        <item index="3" class="java.lang.String" itemvalue="Python.64_regularization_lasso" />
-        <item index="4" class="java.lang.String" itemvalue="Python.63_three_regressor_score" />
+        <item index="0" class="java.lang.String" itemvalue="Python.75_tensorflow_cancer" />
+        <item index="1" class="java.lang.String" itemvalue="Python.74_tensorflow_linear" />
+        <item index="2" class="java.lang.String" itemvalue="Python.73_tensorflow_greeting" />
+        <item index="3" class="java.lang.String" itemvalue="Python.72_xgboost" />
+        <item index="4" class="java.lang.String" itemvalue="Python.71_word2vec" />
       </list>
     </recent_temporary>
   </component>
@@ -382,17 +364,18 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1953125" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29209623" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28636885" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -411,32 +394,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/chapter1/10_function_demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter1/11_library_import.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter1/12_breast_cancer_demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1368">
-          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter2/13_breast_cancer_pretreat.py" />
-    <entry file="file://$PROJECT_DIR$/chapter2/14_breast_cancer_train_test.py" />
-    <entry file="file://$PROJECT_DIR$/chapter2/15_use_lr_and_sgdc.py" />
-    <entry file="file://$PROJECT_DIR$/chapter2/16_predict_report.py" />
-    <entry file="file://$PROJECT_DIR$/chapter2/17_hand_write_read_demo.py" />
     <entry file="file://$PROJECT_DIR$/chapter2/18_hand_write_split.py" />
     <entry file="file://$PROJECT_DIR$/chapter2/19_hand_write_svm_train.py" />
     <entry file="file://$PROJECT_DIR$/chapter2/20_hand_write_svm_report.py" />
@@ -471,7 +428,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -479,7 +435,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="792">
           <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="49" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -487,7 +442,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
           <caret line="14" column="25" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="82" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -495,7 +449,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1620">
           <caret line="45" column="57" lean-forward="false" selection-start-line="45" selection-start-column="57" selection-end-line="45" selection-end-column="57" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -503,16 +456,75 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="430">
           <caret line="51" column="55" lean-forward="false" selection-start-line="51" selection-start-column="55" selection-end-line="51" selection-end-column="55" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter3/61_regressor_poly2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
+        <state relative-caret-position="144">
           <caret line="5" column="12" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
           <folding>
-            <element signature="e#68#120#0" expanded="true" />
+            <element signature="e#68#120#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter3/62_regressor_poly4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1152">
+          <caret line="33" column="17" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding>
+            <element signature="e#68#120#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter3/64_regularization_lasso.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1368">
+          <caret line="39" column="27" lean-forward="false" selection-start-line="39" selection-start-column="27" selection-end-line="39" selection-end-column="27" />
+          <folding>
+            <element signature="e#68#120#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter3/63_three_regressor_score.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="26" column="24" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding>
+            <element signature="e#68#120#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter3/65_regularization_ridge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1440">
+          <caret line="41" column="34" lean-forward="false" selection-start-line="41" selection-start-column="34" selection-end-line="41" selection-end-column="34" />
+          <folding>
+            <element signature="e#68#120#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter3/66_gridsearch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="21" column="29" lean-forward="false" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#47#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter3/67_parallel_gridsearch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="16" column="25" lean-forward="false" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#47#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -525,62 +537,70 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter3/62_regressor_poly4.py">
+    <entry file="file://$PROJECT_DIR$/chapter3/68_install_lib.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="33" column="17" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter3/70_nltk.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="26" column="31" lean-forward="false" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter3/69_bag_of_words.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter3/71_word2vec.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="34" column="36" lean-forward="false" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter3/72_xgboost.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="21" column="82" lean-forward="false" selection-start-line="21" selection-start-column="82" selection-end-line="21" selection-end-column="82" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter3/73_tensorflow_greeting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
           <folding>
-            <element signature="e#68#120#0" expanded="true" />
+            <element signature="e#0#23#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter3/64_regularization_lasso.py">
+    <entry file="file://$PROJECT_DIR$/chapter3/74_tensorflow_linear.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="39" column="27" lean-forward="false" selection-start-line="39" selection-start-column="27" selection-end-line="39" selection-end-column="27" />
-          <folding>
-            <element signature="e#68#120#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="252">
+          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter3/63_three_regressor_score.py">
+    <entry file="file://$PROJECT_DIR$/chapter3/75_tensorflow_cancer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="26" column="24" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+        <state relative-caret-position="343">
+          <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
           <folding>
-            <element signature="e#68#120#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter3/65_regularization_ridge.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="41" column="34" lean-forward="false" selection-start-line="41" selection-start-column="34" selection-end-line="41" selection-end-column="34" />
-          <folding>
-            <element signature="e#68#120#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter3/66_gridsearch.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="21" column="29" lean-forward="true" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#47#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter3/67_parallel_gridsearch.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="20" column="29" lean-forward="false" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#47#0" expanded="true" />
+            <element signature="e#0#23#0" expanded="true" />
           </folding>
         </state>
       </provider>
