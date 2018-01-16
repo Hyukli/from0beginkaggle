@@ -23,3 +23,17 @@ for step in range(0,1000):
     sess.run(train)
     if step%200==0:
         print(step,sess.run(W),sess.run(b))
+
+test_nagative=test.loc[test['Type']==0][['Clump Thickness','Cell Size']]
+test_positive=test.loc[test['Type']==1][['Clump Thickness','Cell Size']]
+import matplotlib.pyplot as plt
+plt.scatter(test_nagative['Clump Thickness'],test_nagative['Cell Size'],marker='o',s=200,c='red')
+plt.scatter(test_positive['Clump Thickness'],test_positive['Cell Size'],marker='x',s=150,c='black')
+plt.xlabel('Clump Thickness')
+plt.ylabel('Cell Size')
+
+lx=np.arange(0,12)
+ly=(0.5-sess.run(b)-lx*sess.run(W)[0][0])/sess.run(W)[0][1]
+
+plt.plot(lx,ly,color='green')
+plt.show()
